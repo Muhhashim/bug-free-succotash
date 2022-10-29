@@ -1,2 +1,2 @@
 # -bug-free-succotash
-Without Aim let me first jump in to learn 
+Hi just some little python scripts for fun
